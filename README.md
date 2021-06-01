@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 RedDragonXR.com
-VR AR MR development
+A stunning VR/AR/MR Development Studio
 
 <!---
 RedDragonXR/RedDragonXR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
